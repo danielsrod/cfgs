@@ -1,3 +1,3 @@
 # cfgs
 
-All my cfg files
+All my .cfg files
